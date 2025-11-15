@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 # Токен бота (ЗАМЕНИТЕ НА СВОЙ!)
-BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
+BOT_TOKEN = "8008971537:AAGNxnQVOIpj1k-EBmkbnPzJaQaBf0IMG38"
 
 # Инициализация базы данных
 def init_db():
